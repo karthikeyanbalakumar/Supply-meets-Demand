@@ -1,14 +1,7 @@
 # Supply-meets-Demand
 Plotting the supply and demand curves in class using live data collected from students (using R)
 
----
-title: "Equilibrium price"
-author: "Karthikeyan Balakumar"
-date: "02/10/2021"
-output: html_document
----
-
-Loading base packages
+Loading the packages I will be using
 ```{r}
 library(dplyr)
 library(googlesheets4)
